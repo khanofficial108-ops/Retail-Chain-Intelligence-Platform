@@ -167,10 +167,36 @@ ORD-1100,2025-04-09,Beauty,Skincare,3,89.97,0,West,PayPal,No
 
 Data visualization
 
+## 📈 Sales Chart
+
+![Sales Chart](Sales-chart.png)
+
+---
+
+## 🛍️ Top10 Subcategories By Sales
+
+![Top10 Subcategories](Top10-subcategories-by-sales.png)
+
+---
+
+## 📦 Sales Distribution
+
+![Sales Distribution](sales-distribution.png)
+
+---
+
+## 🔄 Returns By Category
+
+![Returns By Category](Returns-by-category.png)
+
+---
+
+## 💰 Total Sales By Product Category
+
+![Total Sales](total-sales-by-product-category.png)
 
 
-
-Unlock valuable insights from data to improve operations and achieve 10x business growth.
+Valuable insights from data to improve operations and achieve 10x business growth.
 
 
 📊 Executive Summary: From Clean Data to 10x Growth
