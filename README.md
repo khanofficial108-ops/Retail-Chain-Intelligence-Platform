@@ -1,4 +1,4 @@
-
+![Project Screenshot](download.png)
 
 🏪 RETAIL CHAIN INTELLIGENCE PLATFORM
 Business Intelligence | Operations | Growth Strategy
